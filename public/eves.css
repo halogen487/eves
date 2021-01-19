@@ -1,0 +1,15 @@
+div.container{
+	display: flex;
+	justify-content: center;
+	flex-flow: column;
+}
+div.main{
+	padding: 48px;
+}
+p{
+	text-align: center;
+}
+big{
+	font-size: 2.5em;
+	font-family: cursive;
+}
